@@ -5,8 +5,14 @@ Application written in c# and .net framwork using visual studio comminuty
 **Here are some of the features shown in the photo below**
 
 **1.Analyzing exe using capa**
-![Screenshot_1](https://github.com/user-attachments/assets/f1a20387-62c2-4ce2-b62a-1854f025b517)
+
+<img src="https://github.com/user-attachments/assets/f1a20387-62c2-4ce2-b62a-1854f025b517" width="500">
 
 **2.Analyzing apk using apktool**
 
 <img src="https://github.com/user-attachments/assets/68ab0bea-eb9e-41de-9f4c-dbf93300897f" width="500">
+
+**3.Obfuscate apk/Deobfusacte exe**
+
+<img src= "https://github.com/user-attachments/assets/77a68bbf-d787-45c1-be78-679147a5e1fc" width="500">
+
