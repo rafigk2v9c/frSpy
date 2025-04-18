@@ -1,5 +1,5 @@
 # frSpy
-**frSpy is an application that includes several tools to speed up the analysis process**
+frSpy is an application that includes several tools to speed up the analysis process
 Application written in c# and .net framwork using visual studio comminuty
 
 **Here are some of the features shown in the photo below**
