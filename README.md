@@ -21,5 +21,7 @@ Application written in c# and .net framwork using visual studio comminuty
 
 if it gives an virus alert, it's a false alarm,
 Virus scanners work with signatures which can trigger false positives once in a while.
+
 Trojan:Script/Wacatac.B!ml
+
 I think the reason for this alert is that the application is making too many cmd queries.
