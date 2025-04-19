@@ -19,6 +19,7 @@ Application written in c# and .net framwork
 
 ****DOWNLOAD LINK: https://github.com/rafigk2v9c/frSpy/releases/tag/forrealspy****
 
+****VIRUSTOTAL LINK: https://www.virustotal.com/gui/file/d82dea743743550b32272e4729b177f6843930d6a9c6d2d1ed6fcc7062a7585b/detection****
 if it gives an virus alert, it's a false alarm,
 Trojan:Script/Wacatac.B!ml
 Virus scanners work with signatures which can trigger false positives once in a while.
