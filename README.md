@@ -1,6 +1,6 @@
 # frSpy
 frSpy(for-realspy) is an application that includes several tools to speed up the analysis process
-Application written in c# and .net framwork
+Application written in c# and .net framework
 
 **Here are some of the features shown in the photo below**
 
