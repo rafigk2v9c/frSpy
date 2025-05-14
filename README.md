@@ -24,6 +24,7 @@
 
 ## 🛠️ Installation
 
+Please download the .rar file with the name of the application and then extract it from the rardan to a folder, remember that if the files inside the .rar file are not in a directory, the application will not work
 Download this relase:
 
 ```bash
