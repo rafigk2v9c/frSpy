@@ -1,0 +1,5 @@
+C:\Users\rafoo\Desktop\my proj\relase\frSpy.exe
+C:\Users\rafoo\Desktop\my proj\relase\frSpy.dll
+C:\Users\rafoo\Desktop\my proj\relase\frSpy.deps.json
+C:\Users\rafoo\Desktop\my proj\relase\frSpy.runtimeconfig.json
+C:\Users\rafoo\Desktop\my proj\relase\frSpy.pdb

@@ -1,0 +1,17 @@
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\bin\Debug\net8.0-windows\frSpy.exe
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\bin\Debug\net8.0-windows\frSpy.deps.json
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\bin\Debug\net8.0-windows\frSpy.runtimeconfig.json
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\bin\Debug\net8.0-windows\frSpy.dll
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\bin\Debug\net8.0-windows\frSpy.pdb
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.csproj.GenerateResource.cache
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.AssemblyInfoInputs.cache
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.AssemblyInfo.cs
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.csproj.CoreCompileInputs.cache
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.dll
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\refint\frSpy.dll
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.pdb
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.genruntimeconfig.cache
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\ref\frSpy.dll
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.frSpymain.resources
+C:\Users\rafoo\Desktop\cpp\Window Forms kodlarim\frSpy\obj\Debug\net8.0-windows\frSpy.Properties.Resources.resources
