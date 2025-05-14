@@ -24,7 +24,7 @@
 
 ## 🛠️ Installation
 
-Clone this repository to your local machine:
+Download this relase:
 
 ```bash
 git clone https://github.com/rafigk2v9c/frSpy.git
