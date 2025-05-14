@@ -27,4 +27,4 @@
 Download this relase:
 
 ```bash
-git clone https://github.com/rafigk2v9c/frSpy.git
+https://github.com/rafigk2v9c/frSpy/releases/tag/frSpy
