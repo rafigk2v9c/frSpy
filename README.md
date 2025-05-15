@@ -1,4 +1,4 @@
-# frSpy Tool
+# frSpy App
 
 ![Repo Size](https://img.shields.io/github/repo-size/rafigk2v9c/frSpy)
 ![Stars](https://img.shields.io/github/stars/rafigk2v9c/frSpy?style=social)
